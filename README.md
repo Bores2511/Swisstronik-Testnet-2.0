@@ -1,15 +1,5 @@
 # Swisstronik Tesnet Techinal Task 1
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
-
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x9f88119EBc98b3AD0154e99D7888ed5e2b6e060b
-```
-
 ## Steps
 
 ### 1. Clone Repository
@@ -107,10 +97,5 @@ npm run set-message
 - Copy the address and paste the address in testnet dashboard
 - push this project to your github and paste your repository link in testnet dashboard
 
-by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
 
-//0xf1f0C7Bf19ee4E196C0213cEE1002e9a5fadff62//
 # Bores-Swisstronik-Testnet-2.0
