@@ -5,7 +5,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+git clone https://github.com/Bores2511/hardhat-deploy-contract.git
 ```
 
 ```
@@ -20,7 +20,7 @@ npm install
 
 ### 3. Set .env File
 
-create .env file in root project
+Create .env File in Root Project
 
 ```bash
 PRIVATE_KEY="your private key"
@@ -95,7 +95,7 @@ npm run set-message
 
 - Open the deployed-adddress.ts (location in utils folder)
 - Copy the address and paste the address in testnet dashboard
-- push this project to your github and paste your repository link in testnet dashboard
+- Push this project to your github and paste your repository link in testnet dashboard
 
 
-# Bores-Swisstronik-Testnet-2.0
+# 
