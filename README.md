@@ -1,6 +1,6 @@
 # Swisstronik Tesnet Techinal Task 1
 
-## Steps
+## Step by step
 
 ### 1. Clone Repository
 
